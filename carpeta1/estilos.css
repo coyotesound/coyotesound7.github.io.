@@ -1,0 +1,40 @@
+body {
+  background-color: blue;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Contenedor centrado */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Colores de texto */
+.white {
+  color: white;
+}
+
+.black {
+  color: black;
+}
+
+.red {
+  color: red;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.orange {
+  color: orange;
+}
